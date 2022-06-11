@@ -1,0 +1,24 @@
+.banner {
+    width: 100%;
+    height: 70vh;
+    background-image: url("../../Images/all-image/bannerbackground.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 30px;
+  }
+.banner2 {
+    width: 100%;
+    margin: auto;
+    height: 100vh;
+    background-image: url("../../Images/all-image/login-banner3.jpg"),linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1));
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+   
+   
+  }
+  
